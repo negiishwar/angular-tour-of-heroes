@@ -1,0 +1,29 @@
+.auth-outer {
+    width: 100%;
+    float: left;
+}
+.auth-container {
+    max-width: 680px;
+    margin: 0 auto;
+}
+.login-left, .register-right {
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+.input-row{
+	margin-bottom: 15px;
+}
+.input-row label {
+    width: 100%;
+    display: block;
+    margin-bottom: 3px;
+}
+.input-row input {
+    height: 35px;
+    width: 100%;
+}
+.auth-container-main h2 {
+    margin: 0 0 15px;
+    font-size: 18px;
+}

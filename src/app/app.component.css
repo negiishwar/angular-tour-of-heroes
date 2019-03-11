@@ -1,0 +1,19 @@
+/* AppComponent's private CSS styles */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 2em;
+  color: #000;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 2em;
+  margin-top: 0;
+  padding-top: 0;
+}
+.main-title{
+	text-align: center;
+}
