@@ -11,19 +11,24 @@
     float: left;
     padding: 10px;
 }
-.input-row{
+.form-group{
 	margin-bottom: 15px;
 }
-.input-row label {
+.form-group label {
     width: 100%;
     display: block;
     margin-bottom: 3px;
 }
-.input-row input {
+.form-group input {
     height: 35px;
     width: 100%;
 }
 .auth-container-main h2 {
     margin: 0 0 15px;
     font-size: 18px;
+}
+button{
+    width: 80px;
+    height: 35px;
+    cursor: pointer;
 }
